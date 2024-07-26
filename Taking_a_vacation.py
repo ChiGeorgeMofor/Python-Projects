@@ -1,6 +1,6 @@
 def hotel_cost(nights):
     return 140 * nights
-#Lets see this againgit
+
 def plane_ride_cost(city):
     if city == "Charlotte":
         return 183
@@ -10,8 +10,7 @@ def plane_ride_cost(city):
         return 222
     elif city == "Los Angeles":
         return 475
-
-#testing github commit
+        
 def rental_car_cost(days):
     rent = 40 * days
     if days >= 7:
