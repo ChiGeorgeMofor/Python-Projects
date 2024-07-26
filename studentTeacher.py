@@ -42,7 +42,7 @@ def get_class_average(class_list):
 # List of students
 students = [lloyd, alice, tyler]
 
-# Print average for each student and the class average
+# Printing average for each student and the class average
 for student in students:
     print(f"{student['name']}'s average: {get_average(student):.2f}")
 
