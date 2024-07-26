@@ -23,7 +23,7 @@ ship_col = random_col(board)
 print (ship_row)
 print (ship_col)
 
-# Main game loop
+# Main_game loop
 for turn in range(4):
     print ("Turn", turn + 1)
     guess_row = int(input("Guess Row: "))
