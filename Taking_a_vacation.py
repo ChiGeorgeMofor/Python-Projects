@@ -23,7 +23,7 @@ def rental_car_cost(days):
     elif days >= 3:
         rent -= 20
     return rent
-
+ 
 def trip_cost(city, days, spending_money):
     """Calculate the total cost of the trip."""
     if isinstance(plane_ride_cost(city), str):
