@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 import matplotlib.colors as mcolors
-
+ 
 def draw_chessboard():
     chessboard = np.zeros((8, 8))
     chessboard[1::2, ::2] = 1
