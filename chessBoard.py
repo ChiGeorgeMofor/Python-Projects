@@ -1,0 +1,22 @@
+import matplotlib.pyplot as plt
+import numpy as np
+import matplotlib.colors as mcolors
+
+def draw_chessboard():
+    chessboard = np.zeros((8, 8))
+    chessboard[1::2, ::2] = 1
+    chessboard[::2, 1::2] = 1
+
+    colors = ['#110d00', '#EEEED2']
+    cmap = mcolors.ListedColormap(colors)
+
+    plt.figure(figsize=(4, 4))
+    plt.imshow(chessboard, cmap=cmap, interpolation='nearest')
+
+    plt.xticks([])
+    plt.yticks([])
+    plt.title('Chessboard', fontsize=20)
+    
+
+    plt.show()
+draw_chessboard()
