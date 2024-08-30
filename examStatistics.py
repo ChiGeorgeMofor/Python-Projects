@@ -3,7 +3,7 @@ grades = [100, 100, 90, 40, 80, 100, 85, 70, 90, 65, 90, 85, 50.5]
 def print_grades(grades_input):
     """Print each grade from the list."""
     for grade in grades_input:
-        print(grade) 
+        print(grade)  
       
 def grades_sum(scores):
     """Return the sum of the grades."""
