@@ -9,7 +9,7 @@ def print_board(board):
         print (" ".join(row)) 
     
 def random_row(board):
-    """Returning a random row index."""
+    """Returning a random row index.""" 
     return randint(0, len(board[0]) - 1)
 
 def random_col(board):
