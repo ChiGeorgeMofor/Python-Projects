@@ -1,7 +1,7 @@
 def hotel_cost(nights):
     """Calculate the cost of staying at the hotel for a given number of nights."""
     return 140 * nights    
-         
+          
 def plane_ride_cost(city): 
     """Return the cost of a plane ride to the specified city."""
     if city == "Charlotte":
