@@ -1,5 +1,5 @@
 shopping_list = ["banana", "orange", "apple"]
-     
+      
 stock = {    
     "banana": 6,
     "apple": 0, 
