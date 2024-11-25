@@ -4,7 +4,7 @@ from random import randint
 board = [["O"] * 5 for _ in range(5)] 
          
 def print_board(board): 
-    """Print the board."""    
+    """Print the board."""     
     for row in board:
         print (" ".join(row)) 
     
