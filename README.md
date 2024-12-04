@@ -5,7 +5,7 @@ Welcome to the **Python Projects** repository! This repository contains a collec
 ## Projects 
         
 ### 1. Battleship.py  
-**Description**: A Python implementation of the classic Battleship game. Players guess the location of a hidden battleship on a grid, with the goal of sinking the ship within a limited number of turns.  
+**Description**: A Python implementation of the classic Battleship game. Players guess the location of a hidden battleship on a grid, with the goal of sinking the ship within a limited number of turns.   
 **File Path**: `Battleship.py`  
 
 ### 2. SuperMarket.py
