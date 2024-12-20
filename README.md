@@ -7,7 +7,7 @@ Welcome to the **Python Projects** repository! This repository contains a collec
 ### 1. Battleship.py   
 **Description**: A Python implementation of the classic Battleship game. Players guess the location of a hidden battleship on a grid, with the goal of sinking the ship within a limited number of turns.   
 **File Path**: `Battleship.py`  
-
+ 
 ### 2. SuperMarket.py
 **Description**: A simulation of a supermarket checkout system. This script might handle tasks such as calculating total costs, applying discounts, and managing inventory.  
 **File Path**: `SuperMarket.py`  
