@@ -8,7 +8,7 @@ def print_grades(grades_input):
 def grades_sum(scores):    
     """Return the sum of the grades."""
     total = sum(scores)
-    return total
+    return total 
  
 def grades_average(grades_input):
     """Calculate and return the average of the grades."""
