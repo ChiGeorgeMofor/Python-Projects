@@ -5,7 +5,7 @@ def print_grades(grades_input):
     for grade in grades_input:   
         print(grade)     
               
-def grades_sum(scores):  
+def grades_sum(scores):   
     """Return the sum of the grades."""
     total = sum(scores)
     return total
