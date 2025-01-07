@@ -6,7 +6,7 @@ lloyd = {
     "tests": [75.0, 90.0]     
 }       
            
-alice = {
+alice = { 
     "name": "Alice", 
     "homework": [100.0, 92.0, 98.0, 100.0],
     "quizzes": [82.0, 83.0, 91.0],
