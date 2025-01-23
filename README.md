@@ -1,7 +1,7 @@
 # Python Projects
  
 Welcome to the **Python Projects** repository! This repository contains a collection of Python scripts for various projects and exercises. Below is a list of the projects included in this repository.
-     
+      
 ## Projects 
          
 ### 1. Battleship.py   
