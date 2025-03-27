@@ -6,7 +6,7 @@ board = [["O"] * 5 for _ in range(5)]
 def print_board(board):    
     """Print the board."""            
     for row in board:   
-        print (" ".join(row))   
+        print (" ".join(row))    
      
 def random_row(board):
     """Returning a random row index.""" 
