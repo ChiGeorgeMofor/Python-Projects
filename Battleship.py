@@ -2,7 +2,7 @@ from random import randint
          
 # Innitializing the board as a 5x5 grid of "O"   
 board = [["O"] * 5 for _ in range(5)]     
-                   
+                    
 def print_board(board):         
     """Print the board."""               
     for row in board:     
